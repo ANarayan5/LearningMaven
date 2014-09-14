@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Pack1.TestNG1" duration-ms="26" started-at="2014-09-13T23:41:32Z" finished-at="2014-09-13T23:41:32Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26" started-at="2014-09-13T23:41:32Z" finished-at="2014-09-13T23:41:32Z">
+      <class name="Pack1.TestNG1">
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:Pack1.TestNG1@7624a2c8]" name="f" duration-ms="8" started-at="2014-09-13T19:41:32Z" data-provider="dp" finished-at="2014-09-13T19:41:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:Pack1.TestNG1@7624a2c8]" name="f" duration-ms="1" started-at="2014-09-13T19:41:32Z" data-provider="dp" finished-at="2014-09-13T19:41:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Pack1.TestNG1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Pack1.TestNG1 -->
+</testng-results>
